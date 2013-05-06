@@ -1,0 +1,7 @@
+# CoinFaucet - github.com/Spenzert/CoinFaucet
+# This site is powered by the CoinFaucet Project
+# ==============================================
+# Domo Arigato, Mr. Roboto
+
+User-agent: *
+Allow: /
