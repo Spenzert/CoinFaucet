@@ -4,7 +4,7 @@ CoinFaucet Project
 Based on code.google.com/p/btcfaucet by Spenzert and KrusherPT/etsoberano
 Current development by Spenzert
 -----------------------------------------------------------------------------------
-CoinFaucet Project is licensed under a MIT License (Slightly Modified by Spenzert)
+CoinFaucet Project is licensed under a MIT License
 -----------------------------------------------------------------------------------
 Copyright (c) 2013 Spenzert
 
